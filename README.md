@@ -38,7 +38,7 @@ The dataset used for this analysis is sourced from Kaggle Data Professional Surv
 - What is the most commonly used data tool among respondents?
 
 ## Data visualization 
- ![Alt text](path_to_image.png)
+ ![Alt text](Screenshot_20240902_091107_All Document Reader.jpg)
 
 ## Results/Findings
 
