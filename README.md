@@ -42,22 +42,23 @@ The dataset used for this analysis is sourced from Kaggle Data Professional Surv
 
 ## Results/Findings
 
-- The dashboard shows a balanced diversity effort in terms of target hires, with most departments achieving nearly 50/50 gender representation, except in more senior roles where the male population is higher.
+- The data professional survey dashboard highlights that the average satisfaction with salary and work-life balance is moderate, with room for improvement in both areas.
 
-- The average time in job levels indicates that men spend more time in junior roles before being promoted to senior positions, whereas women are promoted more quickly to higher levels.
+- The average age of survey respondents is 29.87, indicating that the field attracts relatively young professionals, while 630 total survey takers suggest a healthy sample size for analysis.
 
-- Promotion rates for women are lower compared to men, suggesting there could be underlying bias or structural barriers in career progression.
+- The most favored programming language among professionals is Python, followed by SQL and R, with data scientists and data engineers leading the salary brackets.
 
-- Turnover rates are highest in the sales and marketing departments and are particularly high among younger employees, which may indicate dissatisfaction or lack of growth opportunities in these areas.
+- Salaries for data professionals show a clear gender gap, with men earning higher salaries on average than women across the same roles.
 
-- Women make up a higher percentage of recent hires, but their turnover rate is concerning, particularly in technical roles where they remain underrepresented
-
+- The majority of respondents are from the United States, followed by a smaller number of participants from the United Kingdom and India, indicating regional variations in the dataset.
+  
 ## Recommendations
 
-- Increase mentorship and leadership development programs aimed at women in junior and mid-level positions to balance the promotion rates between genders.
+- Organizations should explore ways to improve work-life balance and salary satisfaction, such as offering flexible work arrangements or clearer salary progression paths.
 
-- Analyze the high turnover rates in sales and marketing departments to understand the underlying causes and address any issues related to job satisfaction, career growth, or work-life balance.
+- Address the gender pay gap by conducting pay equity audits and ensuring transparency in compensation policies to ensure fair pay across all roles.
 
-- Encourage greater retention of women in technical roles by providing more opportunities for career development and creating a more supportive working environment.
+- Consider creating professional development programs that focus on growing expertise in high-demand programming languages like Python and SQL.
 
-- Introduce additional programs to retain younger employees, such as clear career advancement paths or job enrichment opportunities.
+- Regional differences in compensation and work satisfaction should be further analyzed to tailor strategies for improving job satisfaction globally.
+
